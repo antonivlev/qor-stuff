@@ -3,7 +3,7 @@ package main
 import (
   "fmt"
   "net/http"
-  "github.com/qor/qor"
+  // "github.com/qor/qor"
   "github.com/qor/admin"
   "github.com/jinzhu/gorm"
   _ "github.com/jinzhu/gorm/dialects/sqlite"
